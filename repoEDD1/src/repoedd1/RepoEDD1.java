@@ -17,6 +17,7 @@ public class RepoEDD1 {
         // TODO code application logic here
     	System.out.print ("Hello World.");
     	System.out.println ("IDE Eclipse");
+    	System.out.println ("IDE Eclipse altra modificacio");
     }
     
 }
