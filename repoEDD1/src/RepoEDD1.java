@@ -9,9 +9,12 @@
  * @author jesus
  */
 public class RepoEDD1 {
-    int a;
+    int a,b;
     void ESA(){
         System.out.println("EsA: "+a);
+    }
+    void ESB(){
+        System.out.println("EsB: "+b);
     }
 
    
