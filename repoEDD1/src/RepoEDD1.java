@@ -27,6 +27,8 @@ public class RepoEDD1 {
     	System.out.println ("IDE Eclipse altra modificacio");
     	System.out.println ("IDE Eclipse ultima");
         System.out.println("proves netbeans");
+        System.out.println("proves eclipse");
+        
 
     }
     
