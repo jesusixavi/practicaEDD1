@@ -9,10 +9,12 @@
  * @author jesus
  */
 public class RepoEDD1 {
+    int a;
+    void ESA(){
+        System.out.println("EsA: "+a);
+    }
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         // TODO code application logic here
 
