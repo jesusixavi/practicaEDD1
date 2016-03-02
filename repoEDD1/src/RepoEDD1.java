@@ -32,9 +32,13 @@ public class RepoEDD1 {
         System.out.println("proves eclipse gasolinera");
         System.out.println("proves eclipse gasolinera 2");
         System.out.println("proves eclipse gasolinera 3");
-        System.out.println("proves netbeans gasolinera");
         System.out.println("proves eclipse gasolinera");
         System.out.println("proves netbeans2 gasolinera");
+
+
+        System.out.println("proves eclipse gasolinera 5");
+        System.out.println("proves eclipse gasolinera6");
+        
 
 
     }
